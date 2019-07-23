@@ -1,0 +1,89 @@
+body{
+	background-size: cover;
+	background-position: center;
+	color: #fff !important;
+}
+.services{
+	margin: 90px auto;
+	text-align: center;
+}
+h1{
+	font-family:"aguafina-script";
+	letter-spacing: 1px;
+}
+h1:after{
+	content: '';
+	background: white;
+	display: block;width: 150px;
+	height: 3px;
+	margin: 10px auto;
+	
+}
+.icon{
+	font-size: 40px;
+	margin: 20px auto;
+	padding: 20px;
+	height: 80px;
+	width: 80px;
+	border: 1px solid white;
+	border-radius: 50%;
+}
+.h:hover{
+	box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+	cursor: pointer;
+	
+}
+
+/***slider**/
+.carousel-item5 img{
+	width: 100%;
+	height: 100%;
+}
+
+/** header**/
+
+
+/** Aboutus Areas of practice
+.h1{
+	text-align: center;
+	margin: 50px 0 !important;
+	/**font-family:font-family: 'Vollkorn SC', serif;
+	
+}
+**/
+/**Header**/
+.page-header{
+	margin-top: 0;
+}
+.panel-body{
+	padding-top: 0;
+}
+/** end Header**/
+/***** Footer *****/
+
+.footer-top { padding: 60px 0; background: #333; text-align: left; lor: #aaa; }
+.footer-top h3 { padding-bottom: 10px; color: #fff; }
+
+.footer-about img.logo-footer { max-width: 200px; margin-top: 0; margin-bottom: 18px; }
+.footer-about p a { border: 0; }
+.footer-about p a:hover, .footer-about p a:focus { border: 0; }
+
+.footer-contact p { word-wrap: break-word; }
+.footer-contact i { padding-right: 10px; font-size: 18px; color: #666; }
+.footer-contact p a { border: 0; }
+.footer-contact p a:hover, .footer-contact p a:focus { border: 0; }
+
+.footer-links a { color: #aaa; border: 0; }
+.footer-links a:hover, .footer-links a:focus { color: #fff; }
+
+.footer-bottom { padding: 15px 0 17px 0; background: #444; text-align: left; color: #aaa; }
+
+.footer-social { padding-top: 3px; text-align: right; }
+.footer-social a { margin-left: 20px; color: #777; border: 0; }
+.footer-social a:hover, .footer-social a:focus { color: #79a05f; border: 0; }
+.footer-social i { font-size: 24px; vertical-align: middle; }
+
+.footer-copyright { padding-top: 5px; }
+.footer-copyright a { color: #fff; border: 0; }
+.footer-copyright a:hover, .footer-copyright a:focus { color: #aaa; border: 0; }
+/**end footer***/
